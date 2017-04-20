@@ -1,5 +1,6 @@
 # Hello, World!
-# :poultry_leg:
+# :poultry_leg: :hatched_chick:
+
 
 [My CIS Website on UOregon.edu](http://pages.uoregon.edu/mrice4/111/)
 
